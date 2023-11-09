@@ -6,9 +6,8 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=550&lines=System.out.println(%22Hello%2C%20World%22);SerMs祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
-
   <!-- knock code pictures 敲代码的图片 -->
-  <img src="https://cdn.jsdelivr.net/gh/SerMs/SerMs/assets/images/coding.gif" /><br>
+  <img src="https://cdn.jsdelivr.net/gh/LuckyTiger12138/images//img/202311092011285.gif" /><br>
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
@@ -40,7 +39,7 @@
 <!-- About me 关于我 -->
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/SerMs/SerMs/assets/images/steven.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/LuckyTiger12138/images//img/202311092012839.png" />
 
 <p>&emsp;&emsp;大家好，我是LuckyTiger。</p>
 <p>&emsp;&emsp;热爱编程、美食、游戏、编程。</p>
@@ -56,7 +55,7 @@
 
 ### 🏢 Work Experience
 
-<img align="right" width="88" src="https://img1.baidu.com/it/u=2231607026,252695708&fm=253&fmt=auto&app=138&f=PNG?w=1000&h=500" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/LuckyTiger12138/images//img/202311092012291.png" />
 
 - [社畜生活](http://luckytiger12138.github.io/) &emsp; 📌 2020-09-14 —— Now
   - 工作岗位：Java开发工程师
@@ -71,7 +70,7 @@
 <!-- 近期博客 -->
 ### 📃 Recent Blog
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/SerMs/SerMs/assets/images/astronaut.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/LuckyTiger12138/images//img/202311092012287.png" />
 
 <!-- START_SECTION:blog -->
 * <a href='https://luckytiger12138.github.io/2020/06/27/JavaWeb%E6%94%AF%E4%BB%98%E5%AE%9D%E6%B2%99%E7%9B%92%E6%94%AF%E4%BB%98/' target='_blank'>JavaWeb支付宝-沙盒支付</a> - 2020-06-27
@@ -85,7 +84,7 @@
 
 ### 🧠 Second Brain
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/SerMs/SerMs/assets/images/technologist.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/LuckyTiger12138/images//img/202311092012787.png" />
 
 <!-- START_SECTION:brain -->
 * <a href='https://brain.sunguoqi.com/life/books/%E4%B8%83%E5%B9%B4%E5%B0%B1%E6%98%AF%E4%B8%80%E8%BE%88%E5%AD%90/01.html' target='_blank'>人生最重要的概念：复利</a> - 2023-09-30
@@ -101,7 +100,7 @@
 
 ### 🤾‍♂️ Funny Soul
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/SerMs/SerMs/assets/images/artist.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/LuckyTiger12138/images//img/202311092012092.png" />
 
 <!-- START_SECTION:douban -->
 * <a href='https://movie.douban.com/subject/4006470/' target='_blank'>妖精的尾巴</a> 🌟🌟🌟🌟🌟 力荐- 2023-04-17
@@ -116,6 +115,7 @@
 <tr><td>
 
 <!-- wakatime 统计 -->
+
 ### 📊 WakaTime
 
 <picture>
@@ -188,31 +188,30 @@ Windows                  8 hrs 28 mins       ███████████�
 
 ```mermaid
 mindmap
-  root((SerMs))
+  root((LuckyTiger))
     编程
       Web开发
       Java开发
       SpringCloud Alibaba
       网络爬虫
       人工智能
-    摄影
-      风光
+    美食
+    游戏
     旅行
       广州
-      苏州
-      南京
-      滁州
-      合肥
-      寿县
-    阅读
-      人物传记
-      个人成长
-      社会文化
-      计算机技术
+      济南
+      德州
+      成都
+      西安
+      庆阳
+    动漫
+      名侦探柯南
+      妖精的尾巴
+      斩赤红之瞳
 ```
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/SerMs/SerMs/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/LuckyTiger12138/images//img/202311092016361.png" alt="Man Lifting Weights" width="250" height="250" />
 
 <!--  skill badge 技能徽章 -->
 💪 正在学习
@@ -280,10 +279,10 @@ mindmap
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/SerMs/SerMs/assets/images/github.webp">
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/SerMs/SerMs/assets/images/icon.png" /></div>
+<img src="https://cdn.jsdelivr.net/gh/LuckyTiger12138/images//img/202311092016260.png" /></div>
 
 <!-- profile-3d-contrib 3D贡献图-->
-<img src="https://cdn.jsdelivr.net/gh/SerMs/SerMs/profile-3d-contrib/profile-night-rainbow.svg" />
+<img src="https://cdn.jsdelivr.net/gh/LuckyTiger12138/images//img/202311092016982.svg%2Bxml" />
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
@@ -362,6 +361,7 @@ mindmap
 <img width="36%" src="https://cdn.jsdelivr.net/gh/SerMs/SerMs/assets/images/githubgif.gif" />
 
 <!-- first form 第一个表格 -->
+
 <table>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/SerMs/SerMs/github-metrics/people.followers.svg" alt="people.followers" /></td>
