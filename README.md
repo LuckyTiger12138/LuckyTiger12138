@@ -60,7 +60,7 @@
 
 - [社畜生活](http://luckytiger12138.github.io/) &emsp; 📌 2020-09-14 —— Now
   - 工作岗位：Java开发工程师
-  - 工作内容：全站
+  - 工作内容：全栈
 
 
 </td>
@@ -340,7 +340,7 @@ mindmap
 
 <!-- metrics 基础资料 -->
 <img width="150" src="https://cdn.jsdelivr.net/gh/SerMs/SerMs/assets/images/cxyduck.gif" />&emsp;
-<img src="https://cdn.jsdelivr.net/gh/SerMs/SerMs/github-metrics/base.svg" />
+
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/SerMs/SerMs/assets/images/cxyduck.gif" />
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
